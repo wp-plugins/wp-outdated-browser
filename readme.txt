@@ -42,3 +42,13 @@ The plugin get the language default of your WordPress installation. If you want 
 
 1.0.0 - 28/06/2014
 * First version
+
+== Upgrade Notice ==
+= New version 2.0.0!!!! =
+
+Now you can customize the layout of the alert by your Administration area! Select the color of the text and the background, press save and done!!  
+
+In this version we add native support for some languages: English, Portuguese, Italian, Finnish and Deutsch.
+The plugin will respect the default language of your WordPress installation. If you're using WordPress in some of languages your alert message will be translated automatically!
+
+Be tuned! We will add more languages very soon! 
